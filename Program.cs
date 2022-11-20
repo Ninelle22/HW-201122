@@ -13,5 +13,5 @@ if (number>number2)
 }
 else
 {
-    WriteLine($"Число {number} является минимальным, а число {number2} минимальным");   
+    WriteLine($"Число {number} является минимальным, а число {number2} максимальным");   
 }
